@@ -1,6 +1,8 @@
 # front end internship challenge by totality corp
 TechStack used: I have used react js library to build this project . styling is done with tailwind css framework.
 
+Used firebase for email and google authentications.
+
 I have used Redux and Redux toolkit for state management. Used react router for routing through different pages and all.
 
 # Getting Started with Create React App
