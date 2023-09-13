@@ -1,4 +1,4 @@
-# front end internship challenge by totality corp
+# front end ReactJs project .
 TechStack used: I have used react js library to build this project . styling is done with tailwind css framework.
 
 Used firebase for email and google authentications.
