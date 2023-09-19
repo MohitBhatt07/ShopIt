@@ -31,6 +31,7 @@ const ProductsCard = ({ product }) => {
           src={product.image}
           style={{filter : "drop-shadow(0 0 0.75rem violet)"}}
           alt="productImg"
+          loading="lazy"
         />
       </div>
       <div className="w-full border-[1px] border-violet-700 rounded-b-xl px-2 py-4">
